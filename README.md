@@ -216,8 +216,9 @@ Confirm the apply with yes.
 
 This will create the VPC, subnets, internet gateway, route table, and security group as defined in the configuration.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Acknowledgments
 * Terraform documentation and community resources
